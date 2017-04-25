@@ -12,3 +12,12 @@ H:\mybook\VB\VB2010\ch7\計算總分\計算總分\obj\x86\Debug\計算總分.pdb
 G:\mybook\VB\VB2010\ch7\計算總分\計算總分\obj\x86\Debug\計算總分.exe
 G:\mybook\VB\VB2010\ch7\計算總分\計算總分\obj\x86\Debug\計算總分.xml
 G:\mybook\VB\VB2010\ch7\計算總分\計算總分\obj\x86\Debug\計算總分.pdb
+C:\Users\790\Desktop\0425\ch7\計算總分\計算總分\obj\x86\Debug\計算總分.exe
+C:\Users\790\Desktop\0425\ch7\計算總分\計算總分\obj\x86\Debug\計算總分.xml
+C:\Users\790\Desktop\0425\ch7\計算總分\計算總分\obj\x86\Debug\計算總分.pdb
+C:\Users\790\Desktop\0425\ch7\計算總分\計算總分\bin\Debug\計算總分.exe
+C:\Users\790\Desktop\0425\ch7\計算總分\計算總分\bin\Debug\計算總分.pdb
+C:\Users\790\Desktop\0425\ch7\計算總分\計算總分\bin\Debug\計算總分.xml
+C:\Users\790\Desktop\0425\ch7\計算總分\計算總分\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\790\Desktop\0425\ch7\計算總分\計算總分\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\790\Desktop\0425\ch7\計算總分\計算總分\obj\x86\Debug\計算總分.vbproj.GenerateResource.Cache
