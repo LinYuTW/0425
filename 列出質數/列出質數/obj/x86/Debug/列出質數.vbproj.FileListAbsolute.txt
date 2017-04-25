@@ -1,0 +1,11 @@
+H:\mybook\VB\VB2010\ch4\列出質數\列出質數\bin\Debug\列出質數.exe
+H:\mybook\VB\VB2010\ch4\列出質數\列出質數\bin\Debug\列出質數.pdb
+H:\mybook\VB\VB2010\ch4\列出質數\列出質數\bin\Debug\列出質數.xml
+H:\mybook\VB\VB2010\ch4\列出質數\列出質數\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\mybook\VB\VB2010\ch4\列出質數\列出質數\obj\x86\Debug\WindowsApplication1.Form1.resources
+H:\mybook\VB\VB2010\ch4\列出質數\列出質數\obj\x86\Debug\WindowsApplication1.Resources.resources
+H:\mybook\VB\VB2010\ch4\列出質數\列出質數\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\mybook\VB\VB2010\ch4\列出質數\列出質數\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\mybook\VB\VB2010\ch4\列出質數\列出質數\obj\x86\Debug\列出質數.exe
+H:\mybook\VB\VB2010\ch4\列出質數\列出質數\obj\x86\Debug\列出質數.xml
+H:\mybook\VB\VB2010\ch4\列出質數\列出質數\obj\x86\Debug\列出質數.pdb
