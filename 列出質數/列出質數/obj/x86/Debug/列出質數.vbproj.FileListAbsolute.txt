@@ -9,3 +9,12 @@ H:\mybook\VB\VB2010\ch4\列出質數\列出質數\obj\x86\Debug\GenerateResource
 H:\mybook\VB\VB2010\ch4\列出質數\列出質數\obj\x86\Debug\列出質數.exe
 H:\mybook\VB\VB2010\ch4\列出質數\列出質數\obj\x86\Debug\列出質數.xml
 H:\mybook\VB\VB2010\ch4\列出質數\列出質數\obj\x86\Debug\列出質數.pdb
+C:\Users\790\Desktop\0425\列出質數\列出質數\obj\x86\Debug\列出質數.exe
+C:\Users\790\Desktop\0425\列出質數\列出質數\obj\x86\Debug\列出質數.xml
+C:\Users\790\Desktop\0425\列出質數\列出質數\obj\x86\Debug\列出質數.pdb
+C:\Users\790\Desktop\0425\列出質數\列出質數\bin\Debug\列出質數.exe
+C:\Users\790\Desktop\0425\列出質數\列出質數\bin\Debug\列出質數.pdb
+C:\Users\790\Desktop\0425\列出質數\列出質數\bin\Debug\列出質數.xml
+C:\Users\790\Desktop\0425\列出質數\列出質數\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\790\Desktop\0425\列出質數\列出質數\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\790\Desktop\0425\列出質數\列出質數\obj\x86\Debug\列出質數.vbproj.GenerateResource.Cache

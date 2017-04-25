@@ -1,0 +1,14 @@
+H:\mybook\VB\VB2010\ch7\全班不及格人數統計\全班不及格人數統計\bin\Debug\全班不及格人數統計.exe
+H:\mybook\VB\VB2010\ch7\全班不及格人數統計\全班不及格人數統計\bin\Debug\全班不及格人數統計.pdb
+H:\mybook\VB\VB2010\ch7\全班不及格人數統計\全班不及格人數統計\bin\Debug\全班不及格人數統計.xml
+H:\mybook\VB\VB2010\ch7\全班不及格人數統計\全班不及格人數統計\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\mybook\VB\VB2010\ch7\全班不及格人數統計\全班不及格人數統計\obj\x86\Debug\WindowsApplication1.Form1.resources
+H:\mybook\VB\VB2010\ch7\全班不及格人數統計\全班不及格人數統計\obj\x86\Debug\WindowsApplication1.Resources.resources
+H:\mybook\VB\VB2010\ch7\全班不及格人數統計\全班不及格人數統計\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\mybook\VB\VB2010\ch7\全班不及格人數統計\全班不及格人數統計\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\mybook\VB\VB2010\ch7\全班不及格人數統計\全班不及格人數統計\obj\x86\Debug\全班不及格人數統計.exe
+H:\mybook\VB\VB2010\ch7\全班不及格人數統計\全班不及格人數統計\obj\x86\Debug\全班不及格人數統計.xml
+H:\mybook\VB\VB2010\ch7\全班不及格人數統計\全班不及格人數統計\obj\x86\Debug\全班不及格人數統計.pdb
+G:\mybook\VB\VB2010\ch7\ex-全班不及格人數統計\全班不及格人數統計\obj\x86\Debug\全班不及格人數統計.exe
+G:\mybook\VB\VB2010\ch7\ex-全班不及格人數統計\全班不及格人數統計\obj\x86\Debug\全班不及格人數統計.xml
+G:\mybook\VB\VB2010\ch7\ex-全班不及格人數統計\全班不及格人數統計\obj\x86\Debug\全班不及格人數統計.pdb

@@ -1,0 +1,14 @@
+H:\mybook\VB\VB2010\ch7\計算總分\計算總分\bin\Debug\計算總分.exe
+H:\mybook\VB\VB2010\ch7\計算總分\計算總分\bin\Debug\計算總分.pdb
+H:\mybook\VB\VB2010\ch7\計算總分\計算總分\bin\Debug\計算總分.xml
+H:\mybook\VB\VB2010\ch7\計算總分\計算總分\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\mybook\VB\VB2010\ch7\計算總分\計算總分\obj\x86\Debug\WindowsApplication1.Form1.resources
+H:\mybook\VB\VB2010\ch7\計算總分\計算總分\obj\x86\Debug\WindowsApplication1.Resources.resources
+H:\mybook\VB\VB2010\ch7\計算總分\計算總分\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\mybook\VB\VB2010\ch7\計算總分\計算總分\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\mybook\VB\VB2010\ch7\計算總分\計算總分\obj\x86\Debug\計算總分.exe
+H:\mybook\VB\VB2010\ch7\計算總分\計算總分\obj\x86\Debug\計算總分.xml
+H:\mybook\VB\VB2010\ch7\計算總分\計算總分\obj\x86\Debug\計算總分.pdb
+G:\mybook\VB\VB2010\ch7\計算總分\計算總分\obj\x86\Debug\計算總分.exe
+G:\mybook\VB\VB2010\ch7\計算總分\計算總分\obj\x86\Debug\計算總分.xml
+G:\mybook\VB\VB2010\ch7\計算總分\計算總分\obj\x86\Debug\計算總分.pdb
